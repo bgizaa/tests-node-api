@@ -20,17 +20,17 @@ $ npm start
 ```
 
 
-Open [http://localhost:3000](http://localhost:3000) to tests endpoits in Postman/Insomnia
+Open [http://localhost:3000](http://localhost:3000) to tests endpoiNts in Postman/Insomnia
 
 ### Available Endpoints
 
 
- GET /
+ - GET /
 
- POST /add
+ - POST /add
 
- DELETE /:id
+ - DELETE /:id
 
- GET /id
+ - GET /id
 
  POST /update/:id

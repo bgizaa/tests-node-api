@@ -8,7 +8,7 @@ $ git clone https://github.com/bgizaa/tests-node-api.git
 ```
 
 ```
-$ cd tests-node-app
+$ cd tests-node-app/backend
 ```
 
 ```

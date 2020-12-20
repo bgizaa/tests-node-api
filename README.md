@@ -1,18 +1,36 @@
 # Getting Started with tests-node-api
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
 
 Execute the following scripts to run the project:
 
-### `git clone https://github.com/bgizaa/tests-node-api.git`
+```
+$ git clone https://github.com/bgizaa/tests-node-api.git
+```
 
-### `cd tests-node-app`
+```
+$ cd tests-node-app
+```
 
-### `npm install`
+```
+$ npm install
+```
 
-### `npm start`
+```
+$ npm start
+```
 
-Open [http://localhost:3000](http://localhost:3000) to view in Postman
 
+Open [http://localhost:3000](http://localhost:3000) to tests endpoits in Postman/Insomnia
+
+### Available Endpoints
+
+
+ GET /
+
+ POST /add
+
+ DELETE /:id
+
+ GET /id
+
+ POST /update/:id

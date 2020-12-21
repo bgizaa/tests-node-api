@@ -1,20 +1,6 @@
 # Getting Started with tests-node-api
 
 
-Execute the following scripts to run the project:
-
-```
-$ git clone https://github.com/bgizaa/tests-node-api.git
-```
-
-```
-$ cd tests-node-app
-```
-
-```
-$ npm start
-```
-
 
  Open [https://peaceful-coast-34523.herokuapp.com/tests](https://peaceful-coast-34523.herokuapp.com/tests) to tests endpoints in Postman/Insomnia
 
@@ -30,6 +16,26 @@ $ npm start
  - GET /tests/:id
 
  - POST /tests/update/:id
+
+
+To run in your local environment:
+
+```
+$ git clone https://github.com/bgizaa/tests-node-api.git
+```
+
+```
+$ cd tests-node-app
+```
+
+```
+$ npm start
+```
+
+ Open [localhost:3000/tests](localhost:3000/tests) to tests endpoints in Postman/Insomnia
+
+
+
 
 
 

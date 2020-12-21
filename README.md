@@ -34,3 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) to tests endpoints in Postma
  - GET /:id
 
  - POST /update/:id
+
+
+## [API LINK](https://peaceful-coast-34523.herokuapp.com/tests)
+

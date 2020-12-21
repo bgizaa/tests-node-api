@@ -18,7 +18,7 @@
  - POST /tests/update/:id
 
 
-To run in your local environment:
+### To run in your local environment:
 
 ```
 $ git clone https://github.com/bgizaa/tests-node-api.git
@@ -32,7 +32,7 @@ $ cd tests-node-app
 $ npm start
 ```
 
- Open [localhost:3000/tests](localhost:3000/tests) to tests endpoints in Postman/Insomnia
+ Open [http://localhost:5000/tests](http://localhost:5000/tests) to tests endpoints in Postman/Insomnia
 
 
 

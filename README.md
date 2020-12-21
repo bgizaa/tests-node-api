@@ -31,6 +31,6 @@ Open [http://localhost:3000](http://localhost:3000) to tests endpoints in Postma
 
  - DELETE /:id
 
- - GET /id
+ - GET /:id
 
  - POST /update/:id

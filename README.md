@@ -16,20 +16,20 @@ $ npm start
 ```
 
 
- Open[https://peaceful-coast-34523.herokuapp.com/tests](https://peaceful-coast-34523.herokuapp.com/tests) to tests endpoints in Postman/Insomnia
+ Open [https://peaceful-coast-34523.herokuapp.com/tests](https://peaceful-coast-34523.herokuapp.com/tests) to tests endpoints in Postman/Insomnia
 
 ### Available Endpoints
 
 
- - GET /
+ - GET /tests
 
- - POST /add
+ - POST /tests/add
 
- - DELETE /:id
+ - DELETE /tests/:id
 
- - GET /:id
+ - GET /tests/:id
 
- - POST /update/:id
+ - POST tests/update/:id
 
 
 

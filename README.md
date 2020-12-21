@@ -32,7 +32,7 @@ $ cd tests-node-app
 $ npm start
 ```
 
- Open [http://localhost:5000/tests](http://localhost:5000/tests) to tests endpoints in Postman/Insomnia
+ Open [http://localhost:3000/tests](http://localhost:3000/tests) to tests endpoints in Postman/Insomnia
 
 
 

@@ -29,7 +29,7 @@ $ npm start
 
  - GET /tests/:id
 
- - POST tests/update/:id
+ - POST /tests/update/:id
 
 
 
